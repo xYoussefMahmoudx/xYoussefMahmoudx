@@ -2,7 +2,7 @@
 
 ###  A little more about me...  
 <p align="left">
-<a href="https://www.linkedin.com/in/youssef-mahmoud-ahmed/"><img src="https://img.shields.io/badge/-Noha%20Drweesh-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-mahmoud-ahmed/"><img src="https://img.shields.io/badge/-Youseef%20Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 
