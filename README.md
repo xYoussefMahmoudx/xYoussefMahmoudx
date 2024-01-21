@@ -20,3 +20,6 @@
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;</br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xYoussefMahmoudx)](https://git.io/streak-stats)
