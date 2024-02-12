@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-###  A little more about me...  
+###  🔭 A little more about me...  
+-  Computer Engineering student skilled in mobile programming with ongoing learning in AI, ML, Embedded Systems, and backend development. Dedicated to continuous learning and growth in technology.
 <p align="left">
 <a href="https://www.linkedin.com/in/youssef-mahmoud-ahmed/" target="_blank"><img src="https://img.shields.io/badge/-Youseef%20Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-
-
-- 🔭 I’m currently studying computer engineering
-- 🌱 I’m currently learning web development 
-- 🌱 I’m currently learning Android development 
+<p align="left">
+<a href="https://www.youtube.com/channel/UCATJXprwOBY1tsuW281EcfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>        
 
 ### 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
