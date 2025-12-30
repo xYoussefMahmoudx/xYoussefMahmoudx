@@ -27,4 +27,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xYoussefMahmoudx&theme=midnight-purple)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=xYoussefMahmoudx&theme=midnight-purple)](https://git.io/streak-stats)>
