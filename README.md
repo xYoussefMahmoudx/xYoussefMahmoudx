@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ###  🔭 A little more about me...  
--  Computer Engineering student skilled in mobile programming with ongoing learning in AI, ML, Embedded Systems, and backend development. Dedicated to continuous learning and growth in technology.
+-  Data Engineer @ Rackspace . Dedicated to continuous learning and growth in technology.
 <p align="left">
 <a href="https://www.linkedin.com/in/youssef-mahmoud-ahmed/" target="_blank"><img src="https://img.shields.io/badge/-Youseef%20Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCATJXprwOBY1tsuW281EcfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
